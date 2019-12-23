@@ -63,7 +63,7 @@ namespace advCal
             {
                 lb_cal.Text = lb_res.Text + op;
             }
-
+            
             lb_res.Text = "";
 
         }
